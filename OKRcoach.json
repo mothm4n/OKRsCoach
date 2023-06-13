@@ -65,7 +65,8 @@
                 "Negotiated":"Improved with feedback from other teams and stakeholders. This requires transparency. The team is autonomous, but takes all feedback into account.",
                 "Collaborative":"It takes a whole team effort to achieve the objective. An objective that requires one part of the team/area to do all the work does not count.",
                 "Agreed":"All team/area members feel committed to the selected objective. Team members are on the same page and in the same boat.",
-                "Time-Achievement-bound":"The team/area knows when the expected result is to be achieved. In general, objectives without a specific date or milestone do not work."
+                "Time-bound":"The team/area knows when the expected result is to be achieved. In general, objectives without a specific date do not work.",
+                "Achievement-bound":"The team/area knows when the expected result is to be achieved. In general, objectives without a specific milestone do not work.The objective has to be able to be answered with a YES or NO has been met."
             }
         },
         "Key_results_rules": {
@@ -101,8 +102,8 @@
         "user preferences": {
             "Description": "This is the user's configuration/preferences for AI OKR coach (YOU).",
             "OKR_level": 0,
-            "OKR_Mindset_type": [],
-            "Key_Results_strategy": [],
+            "OKR_Mindset_type": ["Committed (default)"],
+            "Key_Results_strategy": ["Balanced (default)"],
             "language": "English (Default)"
         },
         "formats": {
