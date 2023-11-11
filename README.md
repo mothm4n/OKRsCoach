@@ -4,6 +4,8 @@ AI OKR Coach is a tool designed to assist users in the process of creating and a
 
 Developed by Mothm4n based on [Mr.-Raneddeer-AI-Tutor's](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) project code.
 
+GPT done based on this system [link](https://chat.openai.com/g/g-C9mGjslFs-okr-coach)
+
 ## Warning
 
 This tool is not intended to provide the best solution or the ones that will lead you to success. 
